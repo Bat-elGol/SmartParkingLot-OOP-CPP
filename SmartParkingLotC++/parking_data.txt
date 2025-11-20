@@ -1,0 +1,10 @@
+ClassB: License Plate: 489-84-999, Entry Time: 05:59, Exit Time: N/A
+ClassB: License Plate: 123-45-678, Entry Time: 06:00, Exit Time: N/A
+ClassC: License Plate: 549-85-111, Entry Time: 06:00, Exit Time: N/A
+ClassB: License Plate: 555-55-555, Entry Time: 06:01, Exit Time: N/A
+ClassD: License Plate: 77-444-66, Entry Time: 06:02, Exit Time: N/A
+ClassB: License Plate: 245-77-111, Entry Time: 10:09, Exit Time: N/A
+ClassC: License Plate: 548-88-445, Entry Time: 10:10, Exit Time: N/A
+ClassD: License Plate: 77-544-11, Entry Time: 10:12, Exit Time: N/A
+ClassB: License Plate: 855-45-855, Entry Time: 10:15, Exit Time: N/A
+ClassB: License Plate: 485-44-444, Entry Time: 10:22, Exit Time: N/A

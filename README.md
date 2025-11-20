@@ -8,7 +8,7 @@ The system tracks vehicle entry/exit, calculates parking fees based on vehicle t
 
 ---
 
-## 📌 Key Features
+## Key Features
 
 * **Vehicle Variety:** Supports specific logic for **Cars**, **Trucks**, and **Motorcycles**.
 * **Dynamic Pricing:** Calculates fees based on parking duration and vehicle type.
@@ -19,7 +19,7 @@ The system tracks vehicle entry/exit, calculates parking fees based on vehicle t
 
 ---
 
-## 💰 Pricing Model
+## Pricing Model
 
 The system implements a polymorphic cost calculation strategy:
 
